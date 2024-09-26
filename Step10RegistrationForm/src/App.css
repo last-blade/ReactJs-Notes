@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #B0AAA7;
+    height: 100vh;
+    text-align: center;
+}
+
+.header{
+    background-color: rgb(3, 3, 23);
+    color: white;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.inputs{
+    background-color: white;
+    padding: 20px;
+}
+
+.details{
+    padding: 10px;
+}
+
+.message{
+    text-align: center;
+}
+
